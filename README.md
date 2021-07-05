@@ -1,4 +1,7 @@
 # library-management-system
-A web app for managing a library . Uses react JS for frontend and java for backend . We used MYSQL as the database 
+
+Started on 06-07-2021
+
+A web app for managing a library . Uses react JS for frontend and java for backend . Uses MYSQL as the database
 
 Developers: Puneeth Sai Tumbalabeedu, Raja Tumbalabeedu
